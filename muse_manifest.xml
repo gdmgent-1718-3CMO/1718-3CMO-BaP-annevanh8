@@ -1,0 +1,119 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://github.com/gdmgent-1718-3CMO/1718-3CMO-BaP-annevanh8" resolutions="1x" timestamp="1535469111128">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-stramien.css" crc="340066376" ref="typo:index:kleur:toepassingen:logo"/>
+    <file name="typo.css" crc="270025518" ref="typo"/>
+    <file name="index.css" crc="91141292" ref="index"/>
+    <file name="kleur.css" crc="3818612480" ref="kleur"/>
+    <file name="toepassingen.css" crc="3824858982" ref="toepassingen"/>
+    <file name="logo.css" crc="154258480" ref="logo"/>
+  </folder>
+  <folder name="assets">
+    <file name="dezorgcirkel_logo_cmyk.pdf" crc="3890380776" seo="true" mt="1534685920000"/>
+    <file name="dezorgcirkel_template.indd" crc="3809445408" seo="true" mt="1535366536000"/>
+    <file name="dezorgcirkel_presentatie.pptx" crc="486251627" seo="true" mt="1535117738000"/>
+    <file name="dezorgcirkel_logo_lang_cmyk.pdf" crc="4034666319" seo="true" mt="1534686022000"/>
+    <file name="dezorgcirkel_logo_lang.png" crc="419665922" seo="true" mt="1534683914000"/>
+    <file name="dezorgcirkel_logo.png" crc="4264717739" seo="true" mt="1534683914000"/>
+    <file name="dezorgcirkel_logo_lang.svg" crc="4247452603" seo="true" mt="1534684476000"/>
+    <file name="dezorgcirkel_logo.svg" crc="3915016002" seo="true" mt="1534684476000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:logo:kleur:typo:toepassingen"/>
+    <file name="museutils.js" crc="340535759" ref="index:logo:kleur:typo:toepassingen"/>
+    <file name="whatinput.js" crc="86476730" ref="index:logo:kleur:typo:toepassingen"/>
+    <file name="museconfig.js" crc="310584261" ref="index:logo:kleur:typo:toepassingen"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:logo:kleur:typo:toepassingen"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:logo:kleur:typo:toepassingen"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:logo:kleur:typo:toepassingen"/>
+    <file name="require.js" crc="7928878" ref="index:logo:kleur:typo:toepassingen"/>
+  </folder>
+  <folder name="images">
+    <file name="dezorgcirkel_logo_lang.svg" crc="4247452603" seo="true" ref="index:logo:kleur:typo:toepassingen">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="toepassingen" alt=""/>
+      <caption webpage="toepassingen" alt=""/>
+      <caption webpage="typo" alt=""/>
+      <caption webpage="typo" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="kleur" alt=""/>
+      <caption webpage="kleur" alt=""/>
+    </file>
+    <file name="dezorgcirkel_logo_lang_poster_.png" crc="3958922710" ref="index"/>
+    <file name="aris-sfakianakis-358841-unsplash.jpg" crc="4134915477" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artev_lo_zonder_baseline_xsml_rgb_0.jpg" crc="4250136183" seo="true" ref="index:logo:kleur:typo:toepassingen">
+      <caption webpage="index" alt=""/>
+      <caption webpage="toepassingen" alt=""/>
+      <caption webpage="typo" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="kleur" alt=""/>
+    </file>
+    <file name="zorgcirkel_balk.jpg" crc="3774182496" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="dezorgcirkel_logo.svg" crc="3915016002" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="dezorgcirkel_logo_poster_.png" crc="3870940179" ref="logo"/>
+    <file name="min-witruimte-1.svg" crc="328871190" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="min witruimte 1_poster_.png" crc="3957620246" ref="logo"/>
+    <file name="minimum-witruimte-2.svg" crc="3799809430" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="minimum witruimte 2_poster_.png" crc="284458872" ref="logo"/>
+    <file name="minimum-grootte.svg" crc="291415347" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="minimum grootte_poster_.png" crc="243407789" ref="logo"/>
+    <file name="minimuum-grootte.svg" crc="303377431" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="minimuum grootte_poster_.png" crc="445075834" ref="logo"/>
+    <file name="dont-s.svg" crc="199851083" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="dont-s_poster_.png" crc="244517054" ref="logo"/>
+    <file name="dont-s-2.svg" crc="4133000090" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="dont-s 2_poster_.png" crc="4062066422" ref="logo"/>
+    <file name="geplakte afbeelding 784 x 250.jpg" crc="207809415" seo="true" ref="typo">
+      <caption webpage="typo" alt=""/>
+    </file>
+    <file name="gebruik-font.svg" crc="3957732286" seo="true" ref="typo">
+      <caption webpage="typo" alt=""/>
+    </file>
+    <file name="gebruik font_poster_.png" crc="4269042258" ref="typo"/>
+    <file name="flyer_warmemaaltijden_dezorgcirkel_presentatie1-crop-u1652.jpg" crc="66011029" seo="true" ref="toepassingen">
+      <caption webpage="toepassingen" alt=""/>
+    </file>
+    <file name="imac-sonos-speakers-crop-u1673.jpg" crc="459298046" seo="true" ref="toepassingen">
+      <caption webpage="toepassingen" alt=""/>
+    </file>
+    <file name="stationery-crop-u1694.jpg" crc="42474475" seo="true" ref="toepassingen">
+      <caption webpage="toepassingen" alt=""/>
+    </file>
+    <file name="rollup-crop-u1909.jpg" crc="145636051" seo="true" ref="toepassingen">
+      <caption webpage="toepassingen" alt=""/>
+    </file>
+    <file name="website-crop-u1987.jpg" crc="4066439814" seo="true" ref="toepassingen">
+      <caption webpage="toepassingen" alt=""/>
+    </file>
+    <file name="dezorgcirkel_wagenpark_voorbeeld_presentatie-crop-u2037.jpg" crc="3873470365" seo="true" ref="toepassingen">
+      <caption webpage="toepassingen" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="136075689" seo="true" mt="1535464318361" redirect="true"/>
+  <file name="logo.html" crc="132800868" seo="true" mt="1535465375572" redirect="true"/>
+  <file name="kleur.html" crc="3791376658" seo="true" mt="1535465471880" redirect="true"/>
+  <file name="typo.html" crc="24769784" seo="true" mt="1535465596754" redirect="true"/>
+  <file name="toepassingen.html" crc="511010567" seo="true" mt="1535468952442" redirect="true"/>
+</manifest>
